@@ -1,1 +1,0 @@
-A certified data scientist who has strong knowledge in Python,SQL server,Tableau,Machine learning. Took formal training in Data science and analytics with hands-on experience on projects and case studies and possesses a commendable skill set in Data retrieval,statistical analysis,predictive modelling and data visualization in order to generate valuable business insights
